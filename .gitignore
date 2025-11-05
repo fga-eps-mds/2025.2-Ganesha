@@ -33,7 +33,6 @@ __pycache__/
 # =======================================================
 # Arquivos de Variáveis de Ambiente (que nunca devem ser versionados)
 .env
-.env.*
 /%USERPROFILE%
 
 # Logs e Misc
@@ -42,3 +41,4 @@ yarn-debug.log*
 yarn-error.log*
 .DS_Store
 .ideia
+.ideia/
